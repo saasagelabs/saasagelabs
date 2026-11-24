@@ -23,7 +23,7 @@ SaaSage Labs is an independent product lab. We start with a real problem, build 
   </tr>
 </table>
 
-**Twring** works with Hermes, Claude Code, Codex and Gemini CLI. It is in the Hermes plugin marketplace (`hermes plugins install twring`), and the code is open: [saasagelabs/twring](https://github.com/saasagelabs/twring).
+**Twring** works with Hermes, Claude Code and Codex. It is in the Hermes plugin marketplace (`hermes plugins install twring`), and the code is open: [saasagelabs/twring](https://github.com/saasagelabs/twring).
 
 ## How we work
 
